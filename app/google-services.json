@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "836342270096",
+    "firebase_url": "https://freeloadershuttle-1bc77.firebaseio.com",
+    "project_id": "freeloadershuttle-1bc77",
+    "storage_bucket": "freeloadershuttle-1bc77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836342270096:android:125653c368c82dea",
+        "android_client_info": {
+          "package_name": "com.Appleto.FreeloaderDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836342270096-709sghq13bkou79bmklr4662fuv25531.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJV53uzxXFP1LgfmCGZqhATMvYrCQIqXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836342270096-709sghq13bkou79bmklr4662fuv25531.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836342270096-jnlr0pqbh9o9jd5h4hsj707aul4dpt7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreeloaderUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836342270096:android:f9733fe21133c7a5",
+        "android_client_info": {
+          "package_name": "com.Appleto.FreeloaderUser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836342270096-2gjh85eb6uet0r1m40e4mr4kcqunhsnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Appleto.FreeloaderUser",
+            "certificate_hash": "b9e45e7fa28402a6522eaae1a5f5c88cadb7e589"
+          }
+        },
+        {
+          "client_id": "836342270096-709sghq13bkou79bmklr4662fuv25531.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJV53uzxXFP1LgfmCGZqhATMvYrCQIqXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836342270096-709sghq13bkou79bmklr4662fuv25531.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836342270096-jnlr0pqbh9o9jd5h4hsj707aul4dpt7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreeloaderUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_home"
+            android:title="@string/nav_user_home"/>
+        <item
+            android:id="@+id/change_location"
+            android:title="@string/nav_change_location" />
+        <item
+            android:id="@+id/nav_serviceinfo"
+            android:title="@string/nav_serviceinfo" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:title="@string/nav_my_account" />
+
+        <item
+            android:id="@+id/nav_terms_and_condition"
+            android:title="@string/nav_terms_and_condition" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>
